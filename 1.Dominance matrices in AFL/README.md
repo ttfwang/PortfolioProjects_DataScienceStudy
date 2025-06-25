@@ -46,6 +46,12 @@ The forecasting methodology relies on constructing dominance matrices and derivi
 - **Best model:** R1 + R2 × n₁ performed best (56% accuracy at Round 20).
 - **Score margin matters:** Teams with narrow wins were often underrated by dominance-based models.
 
+## Comparison of predicted rankings vs. actual D(3-22) ladder (Screenshot)
+![Comparison of predicted rankings vs. actual D(3-22) ladder](https://github.com/ttfwang/PortfolioProjects_DataScienceStudy/blob/main/1.Dominance%20matrices%20in%20AFL/Comparison%20of%20predicted%20rankings%20%26%20actual%20ladder%20(screenshot).PNG)
+
+## Model Comparison (Screenshot)
+![Model Comparison](https://github.com/ttfwang/PortfolioProjects_DataScienceStudy/blob/main/1.Dominance%20matrices%20in%20AFL/Model%20Comparison%20(screenshot).PNG)
+
 ## Conclusion
 
 This project demonstrates how mathematical modelling using dominance matrices can provide moderately accurate team rankings based on score performance alone. It highlights the importance of data volume, weighting adjustments, and interpretation in predictive analytics.
